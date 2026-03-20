@@ -61,10 +61,13 @@ Use **Kernel → Restart & Run All** to reproduce all results end-to-end.
 | Table 3 | §5.2 | SH Impact on Quantity, Price, Feedback, and New Listings |
 | Table 4 | §5.2 | Heterogeneous Effects by Product Category Homogeneity |
 | Table 5 | §5.3 | Moderating Role of Performance Monitoring |
-| Table D.1 | Appendix D | Dynamic Impacts: Relative Time Model for All Outcomes |
+| Table D.1 | Appendix D | Dynamic Impacts: Relative Time Model for All Outcomes (bonus) |
 | KW Test | §6.1 | Kruskal-Wallis balance test across ramp-up groups |
 
-Appendices are not replicated.
+### Not Replicated
+
+- **Figure 1** (§3.1): This is a screenshot of the Seller Hub user interface, not a data-generated figure. It cannot be replicated from the data.
+- **Appendix tables** (other than Table D.1): Robustness checks and supplementary analyses in Appendices A–F are not replicated, as the assignment requires only main-body tables and figures. Table D.1 is included as a bonus because it directly extends the Figure 4 event study analysis.
 
 ---
 
