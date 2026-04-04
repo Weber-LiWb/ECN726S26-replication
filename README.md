@@ -34,18 +34,16 @@ The full dataset (184,222 sellers) is proprietary eBay data. Researchers can req
 ### 1. Install dependencies
 
 ```bash
-pip install pyfixest pandas numpy matplotlib seaborn statsmodels scipy jupyter
+pip install -r requirements.txt
 ```
 
-### 2. Open the notebook
+### 2. Run the notebook (single-click)
 
 ```bash
 jupyter notebook replication.ipynb
 ```
 
-### 3. Run all cells
-
-Use **Kernel → Restart & Run All** to reproduce all results end-to-end.
+Then use **Kernel → Restart & Run All** to reproduce all results end-to-end. No manual configuration is needed — all data files are included in this repository.
 
 ---
 
