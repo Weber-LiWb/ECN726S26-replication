@@ -1,0 +1,161 @@
+estimate,se_seller,se_hc1,se_twoway,n,converged,error,func_form,fe,sample,cov_design,form_label,fe_label,sample_label,cov_label
+0.002466,0.017203,0.010626,0.017175,423706,True,,F1,E1,S1,D1,log(GMV+1),Seller+Week FE,Full sample,No controls
+0.012747,0.017736,0.015113,0.014012,423706,True,,F1,E1,S1,D2,log(GMV+1),Seller+Week FE,Full sample,Cohort trends
+0.006011,0.008629,0.006043,0.007858,319464,True,,F1,E1,S2,D1,log(GMV+1),Seller+Week FE,Positive-sales,No controls
+0.008925,0.009591,0.008557,0.008594,319464,True,,F1,E1,S2,D2,log(GMV+1),Seller+Week FE,Positive-sales,Cohort trends
+0.032621,0.034468,0.022296,0.032573,85514,True,,F1,E1,S3,D1,log(GMV+1),Seller+Week FE,Early adopters,No controls
+0.088644,0.034558,0.029476,0.030700,85514,True,,F1,E1,S3,D2,log(GMV+1),Seller+Week FE,Early adopters,Cohort trends
+-0.366317,0.011901,0.006968,0.040731,423706,True,,F1,E2,S1,D1,log(GMV+1),Seller FE only,Full sample,No controls
+-0.005574,0.014497,0.011822,0.023434,423706,True,,F1,E2,S1,D2,log(GMV+1),Seller FE only,Full sample,Cohort trends
+-0.146157,0.006054,0.003984,0.018442,319464,True,,F1,E2,S2,D1,log(GMV+1),Seller FE only,Positive-sales,No controls
+0.017626,0.007694,0.006698,0.018755,319464,True,,F1,E2,S2,D2,log(GMV+1),Seller FE only,Positive-sales,Cohort trends
+-0.218125,0.021736,0.013076,0.034596,85514,True,,F1,E2,S3,D1,log(GMV+1),Seller FE only,Early adopters,No controls
+0.009040,0.027248,0.022025,0.026397,85514,True,,F1,E2,S3,D2,log(GMV+1),Seller FE only,Early adopters,Cohort trends
+0.116282,0.034750,0.014640,0.034386,423706,True,,F1,E3,S1,D1,log(GMV+1),Week FE only,Full sample,No controls
+-0.049044,0.025021,0.023343,0.021691,423706,True,,F1,E3,S1,D2,log(GMV+1),Week FE only,Full sample,Cohort trends
+0.049722,0.020227,0.008862,0.019237,319925,True,,F1,E3,S2,D1,log(GMV+1),Week FE only,Positive-sales,No controls
+-0.019305,0.014439,0.014029,0.010667,319925,True,,F1,E3,S2,D2,log(GMV+1),Week FE only,Positive-sales,Cohort trends
+0.135482,0.071833,0.030928,0.068435,85514,True,,F1,E3,S3,D1,log(GMV+1),Week FE only,Early adopters,No controls
+0.022073,0.046152,0.045828,0.028272,85514,True,,F1,E3,S3,D2,log(GMV+1),Week FE only,Early adopters,Cohort trends
+-0.241880,0.019946,0.010593,0.046840,423706,True,,F1,E4,S1,D1,log(GMV+1),No FE,Full sample,No controls
+-0.301370,0.025284,0.017883,0.062811,423706,True,,F1,E4,S1,D2,log(GMV+1),No FE,Full sample,Cohort trends
+-0.061552,0.011376,0.006390,0.018690,319925,True,,F1,E4,S2,D1,log(GMV+1),No FE,Positive-sales,No controls
+-0.090988,0.014493,0.010716,0.023120,319925,True,,F1,E4,S2,D2,log(GMV+1),No FE,Positive-sales,Cohort trends
+-0.142865,0.034201,0.019948,0.042035,85514,True,,F1,E4,S3,D1,log(GMV+1),No FE,Early adopters,No controls
+-0.178319,0.047767,0.033253,0.055847,85514,True,,F1,E4,S3,D2,log(GMV+1),No FE,Early adopters,Cohort trends
+-0.000225,0.002598,0.001607,0.002539,423706,True,,F2,E1,S1,D1,log(GMV/1000+1),Seller+Week FE,Full sample,No controls
+0.000828,0.002739,0.002315,0.002444,423706,True,,F2,E1,S1,D2,log(GMV/1000+1),Seller+Week FE,Full sample,Cohort trends
+0.000347,0.002816,0.001850,0.002725,319464,True,,F2,E1,S2,D1,log(GMV/1000+1),Seller+Week FE,Positive-sales,No controls
+0.001174,0.003043,0.002641,0.002925,319464,True,,F2,E1,S2,D2,log(GMV/1000+1),Seller+Week FE,Positive-sales,Cohort trends
+0.000401,0.006180,0.003827,0.005698,85514,True,,F2,E1,S3,D1,log(GMV/1000+1),Seller+Week FE,Early adopters,No controls
+0.007349,0.005866,0.005192,0.004335,85514,True,,F2,E1,S3,D2,log(GMV/1000+1),Seller+Week FE,Early adopters,Cohort trends
+-0.043986,0.001808,0.001066,0.005641,423706,True,,F2,E2,S1,D1,log(GMV/1000+1),Seller FE only,Full sample,No controls
+-0.000013,0.002224,0.001826,0.004652,423706,True,,F2,E2,S1,D2,log(GMV/1000+1),Seller FE only,Full sample,Cohort trends
+-0.037005,0.002020,0.001237,0.005536,319464,True,,F2,E2,S2,D1,log(GMV/1000+1),Seller FE only,Positive-sales,No controls
+0.002885,0.002461,0.002086,0.005917,319464,True,,F2,E2,S2,D2,log(GMV/1000+1),Seller FE only,Positive-sales,Cohort trends
+-0.036961,0.003877,0.002280,0.005838,85514,True,,F2,E2,S3,D1,log(GMV/1000+1),Seller FE only,Early adopters,No controls
+-0.002653,0.004731,0.003915,0.004673,85514,True,,F2,E2,S3,D2,log(GMV/1000+1),Seller FE only,Early adopters,Cohort trends
+0.025264,0.006709,0.002667,0.006521,423706,True,,F2,E3,S1,D1,log(GMV/1000+1),Week FE only,Full sample,No controls
+-0.012652,0.004591,0.004397,0.004504,423706,True,,F2,E3,S1,D2,log(GMV/1000+1),Week FE only,Full sample,Cohort trends
+0.025297,0.008291,0.003330,0.007956,319925,True,,F2,E3,S2,D1,log(GMV/1000+1),Week FE only,Positive-sales,No controls
+-0.012212,0.005398,0.005373,0.004643,319925,True,,F2,E3,S2,D2,log(GMV/1000+1),Week FE only,Positive-sales,Cohort trends
+0.042883,0.018152,0.007246,0.017197,85514,True,,F2,E3,S3,D1,log(GMV/1000+1),Week FE only,Early adopters,No controls
+-0.013810,0.010296,0.011188,0.005343,85514,True,,F2,E3,S3,D2,log(GMV/1000+1),Week FE only,Early adopters,Cohort trends
+-0.022894,0.003734,0.001989,0.006952,423706,True,,F2,E4,S1,D1,log(GMV/1000+1),No FE,Full sample,No controls
+-0.043975,0.004786,0.003395,0.009657,423706,True,,F2,E4,S1,D2,log(GMV/1000+1),No FE,Full sample,Cohort trends
+-0.007698,0.004559,0.002453,0.006321,319925,True,,F2,E4,S2,D1,log(GMV/1000+1),No FE,Positive-sales,No controls
+-0.031485,0.005684,0.004128,0.008056,319925,True,,F2,E4,S2,D2,log(GMV/1000+1),No FE,Positive-sales,Cohort trends
+-0.014461,0.008058,0.004798,0.008655,85514,True,,F2,E4,S3,D1,log(GMV/1000+1),No FE,Early adopters,No controls
+-0.044428,0.011378,0.008123,0.012393,85514,True,,F2,E4,S3,D2,log(GMV/1000+1),No FE,Early adopters,Cohort trends
+0.000041,0.002779,0.001786,0.002902,423706,True,,F3,E1,S1,D1,1(GMV>0),Seller+Week FE,Full sample,No controls
+0.001443,0.002917,0.002543,0.002484,423706,True,,F3,E1,S1,D2,1(GMV>0),Seller+Week FE,Full sample,Cohort trends
+0.002921,0.005287,0.003587,0.005117,85514,True,,F3,E1,S3,D1,1(GMV>0),Seller+Week FE,Early adopters,No controls
+0.010900,0.005535,0.004720,0.005144,85514,True,,F3,E1,S3,D2,1(GMV>0),Seller+Week FE,Early adopters,Cohort trends
+-0.048567,0.001919,0.001168,0.005282,423706,True,,F3,E2,S1,D1,1(GMV>0),Seller FE only,Full sample,No controls
+-0.002561,0.002387,0.001984,0.002797,423706,True,,F3,E2,S1,D2,1(GMV>0),Seller FE only,Full sample,Cohort trends
+-0.021589,0.003302,0.002097,0.004266,85514,True,,F3,E2,S3,D1,1(GMV>0),Seller FE only,Early adopters,No controls
+-0.000947,0.004343,0.003530,0.004163,85514,True,,F3,E2,S3,D2,1(GMV>0),Seller FE only,Early adopters,Cohort trends
+0.013582,0.005052,0.002232,0.005047,423706,True,,F3,E3,S1,D1,1(GMV>0),Week FE only,Full sample,No controls
+-0.005449,0.003778,0.003515,0.003177,423706,True,,F3,E3,S1,D2,1(GMV>0),Week FE only,Full sample,Cohort trends
+0.007551,0.009342,0.004308,0.008969,85514,True,,F3,E3,S3,D1,1(GMV>0),Week FE only,Early adopters,No controls
+0.006158,0.006596,0.006259,0.004259,85514,True,,F3,E3,S3,D2,1(GMV>0),Week FE only,Early adopters,Cohort trends
+-0.032936,0.002949,0.001600,0.006075,423706,True,,F3,E4,S1,D1,1(GMV>0),No FE,Full sample,No controls
+-0.039179,0.003728,0.002685,0.008170,423706,True,,F3,E4,S1,D2,1(GMV>0),No FE,Full sample,Cohort trends
+-0.016487,0.004640,0.002739,0.005063,85514,True,,F3,E4,S3,D1,1(GMV>0),No FE,Early adopters,No controls
+-0.016217,0.006469,0.004520,0.006307,85514,True,,F3,E4,S3,D2,1(GMV>0),No FE,Early adopters,Cohort trends
+0.006076,0.008741,0.006137,0.007977,319464,True,,F4,E1,S1,D1,log(GMV)|GMV>0,Seller+Week FE,Full sample,No controls
+0.008849,0.009729,0.008691,0.008787,319464,True,,F4,E1,S1,D2,log(GMV)|GMV>0,Seller+Week FE,Full sample,Cohort trends
+0.006076,0.008741,0.006137,0.007977,319464,True,,F4,E1,S2,D1,log(GMV)|GMV>0,Seller+Week FE,Positive-sales,No controls
+0.008849,0.009729,0.008691,0.008787,319464,True,,F4,E1,S2,D2,log(GMV)|GMV>0,Seller+Week FE,Positive-sales,Cohort trends
+0.024682,0.018113,0.012693,0.017760,73210,True,,F4,E1,S3,D1,log(GMV)|GMV>0,Seller+Week FE,Early adopters,No controls
+0.035262,0.018507,0.016664,0.017800,73210,True,,F4,E1,S3,D2,log(GMV)|GMV>0,Seller+Week FE,Early adopters,Cohort trends
+-0.147761,0.006131,0.004043,0.018588,319464,True,,F4,E2,S1,D1,log(GMV)|GMV>0,Seller FE only,Full sample,No controls
+0.017894,0.007799,0.006798,0.018936,319464,True,,F4,E2,S1,D2,log(GMV)|GMV>0,Seller FE only,Full sample,Cohort trends
+-0.147761,0.006131,0.004043,0.018588,319464,True,,F4,E2,S2,D1,log(GMV)|GMV>0,Seller FE only,Positive-sales,No controls
+0.017894,0.007799,0.006798,0.018936,319464,True,,F4,E2,S2,D2,log(GMV)|GMV>0,Seller FE only,Positive-sales,Cohort trends
+-0.120226,0.011748,0.007363,0.019880,73210,True,,F4,E2,S3,D1,log(GMV)|GMV>0,Seller FE only,Early adopters,No controls
+0.028249,0.014118,0.012356,0.014263,73210,True,,F4,E2,S3,D2,log(GMV)|GMV>0,Seller FE only,Early adopters,Cohort trends
+0.049898,0.020392,0.008959,0.019406,319925,True,,F4,E3,S1,D1,log(GMV)|GMV>0,Week FE only,Full sample,No controls
+-0.019692,0.014597,0.014180,0.010891,319925,True,,F4,E3,S1,D2,log(GMV)|GMV>0,Week FE only,Full sample,Cohort trends
+0.049898,0.020392,0.008959,0.019406,319925,True,,F4,E3,S2,D1,log(GMV)|GMV>0,Week FE only,Positive-sales,No controls
+-0.019692,0.014597,0.014180,0.010891,319925,True,,F4,E3,S2,D2,log(GMV)|GMV>0,Week FE only,Positive-sales,Cohort trends
+0.107000,0.045559,0.019814,0.043357,73265,True,,F4,E3,S3,D1,log(GMV)|GMV>0,Week FE only,Early adopters,No controls
+-0.015197,0.028028,0.029594,0.020117,73265,True,,F4,E3,S3,D2,log(GMV)|GMV>0,Week FE only,Early adopters,Cohort trends
+-0.062379,0.011477,0.006458,0.018840,319925,True,,F4,E4,S1,D1,log(GMV)|GMV>0,No FE,Full sample,No controls
+-0.091845,0.014625,0.010825,0.023296,319925,True,,F4,E4,S1,D2,log(GMV)|GMV>0,No FE,Full sample,Cohort trends
+-0.062379,0.011477,0.006458,0.018840,319925,True,,F4,E4,S2,D1,log(GMV)|GMV>0,No FE,Positive-sales,No controls
+-0.091845,0.014625,0.010825,0.023296,319925,True,,F4,E4,S2,D2,log(GMV)|GMV>0,No FE,Positive-sales,Cohort trends
+-0.049262,0.020930,0.012773,0.024038,73265,True,,F4,E4,S3,D1,log(GMV)|GMV>0,No FE,Early adopters,No controls
+-0.091074,0.029321,0.021408,0.032794,73265,True,,F4,E4,S3,D2,log(GMV)|GMV>0,No FE,Early adopters,Cohort trends
+0.002547,0.018977,0.011741,0.019017,423706,True,,F5,E1,S1,D1,asinh(GMV),Seller+Week FE,Full sample,No controls
+0.013779,0.019570,0.016697,0.015490,423706,True,,F5,E1,S1,D2,asinh(GMV),Seller+Week FE,Full sample,Cohort trends
+0.006183,0.008732,0.006127,0.007953,319464,True,,F5,E1,S2,D1,asinh(GMV),Seller+Week FE,Positive-sales,No controls
+0.009073,0.009716,0.008677,0.008740,319464,True,,F5,E1,S2,D2,asinh(GMV),Seller+Week FE,Positive-sales,Cohort trends
+0.035231,0.037759,0.024488,0.035750,85514,True,,F5,E1,S3,D1,asinh(GMV),Seller+Week FE,Early adopters,No controls
+0.096919,0.037995,0.032354,0.034022,85514,True,,F5,E1,S3,D2,asinh(GMV),Seller+Week FE,Early adopters,Cohort trends
+-0.400345,0.013126,0.007696,0.044360,423706,True,,F5,E2,S1,D1,asinh(GMV),Seller FE only,Full sample,No controls
+-0.007174,0.016000,0.013056,0.025164,423706,True,,F5,E2,S1,D2,asinh(GMV),Seller FE only,Full sample,Cohort trends
+-0.147649,0.006126,0.004038,0.018586,319464,True,,F5,E2,S2,D1,asinh(GMV),Seller FE only,Positive-sales,No controls
+0.017925,0.007791,0.006789,0.018924,319464,True,,F5,E2,S2,D2,asinh(GMV),Seller FE only,Positive-sales,Cohort trends
+-0.233576,0.023790,0.014359,0.037407,85514,True,,F5,E2,S3,D1,asinh(GMV),Seller FE only,Early adopters,No controls
+0.009054,0.029943,0.024175,0.029105,85514,True,,F5,E2,S3,D2,asinh(GMV),Seller FE only,Early adopters,Cohort trends
+0.125716,0.037979,0.016052,0.037615,423706,True,,F5,E3,S1,D1,asinh(GMV),Week FE only,Full sample,No controls
+-0.052800,0.027405,0.025558,0.023678,423706,True,,F5,E3,S1,D2,asinh(GMV),Week FE only,Full sample,Cohort trends
+0.049916,0.020380,0.008950,0.019395,319925,True,,F5,E3,S2,D1,asinh(GMV),Week FE only,Positive-sales,No controls
+-0.019315,0.014577,0.014164,0.010787,319925,True,,F5,E3,S2,D2,asinh(GMV),Week FE only,Positive-sales,Cohort trends
+0.141401,0.077506,0.033529,0.073887,85514,True,,F5,E3,S3,D1,asinh(GMV),Week FE only,Early adopters,No controls
+0.026989,0.050147,0.049573,0.030786,85514,True,,F5,E3,S3,D2,asinh(GMV),Week FE only,Early adopters,Cohort trends
+-0.265019,0.021830,0.011603,0.051005,423706,True,,F5,E4,S1,D1,asinh(GMV),No FE,Full sample,No controls
+-0.328678,0.027649,0.019574,0.068401,423706,True,,F5,E4,S1,D2,asinh(GMV),No FE,Full sample,Cohort trends
+-0.062345,0.011468,0.006451,0.018836,319925,True,,F5,E4,S2,D1,asinh(GMV),No FE,Positive-sales,No controls
+-0.091637,0.014615,0.010816,0.023283,319925,True,,F5,E4,S2,D2,asinh(GMV),No FE,Positive-sales,Cohort trends
+-0.154599,0.037039,0.021597,0.045313,85514,True,,F5,E4,S3,D1,asinh(GMV),No FE,Early adopters,No controls
+-0.189424,0.051693,0.035957,0.059875,85514,True,,F5,E4,S3,D2,asinh(GMV),No FE,Early adopters,Cohort trends
+-11.824218,20.465883,12.000007,19.963818,423706,True,,F6,E1,S1,D1,GMV levels,Seller+Week FE,Full sample,No controls
+6.081433,22.653531,15.633530,22.279442,423706,True,,F6,E1,S1,D2,GMV levels,Seller+Week FE,Full sample,Cohort trends
+-13.078675,27.588112,16.212187,27.068852,319464,True,,F6,E1,S2,D1,GMV levels,Seller+Week FE,Positive-sales,No controls
+12.681334,30.327292,20.355832,28.951970,319464,True,,F6,E1,S2,D2,GMV levels,Seller+Week FE,Positive-sales,Cohort trends
+16.965696,77.386868,39.060728,74.655749,85514,True,,F6,E1,S3,D1,GMV levels,Seller+Week FE,Early adopters,No controls
+53.959477,96.301987,49.862513,92.431145,85514,True,,F6,E1,S3,D2,GMV levels,Seller+Week FE,Early adopters,Cohort trends
+-92.239175,11.845926,6.299775,17.918043,423706,True,,F6,E2,S1,D1,GMV levels,Seller FE only,Full sample,No controls
+-5.772675,13.571322,10.259007,18.618534,423706,True,,F6,E2,S1,D2,GMV levels,Seller FE only,Full sample,Cohort trends
+-84.650616,15.881884,8.406777,22.226385,319464,True,,F6,E2,S2,D1,GMV levels,Seller FE only,Positive-sales,No controls
+0.875321,17.440693,13.140130,24.107535,319464,True,,F6,E2,S2,D2,GMV levels,Seller FE only,Positive-sales,Cohort trends
+-82.585430,34.745086,17.041170,36.561477,85514,True,,F6,E2,S3,D1,GMV levels,Seller FE only,Early adopters,No controls
+-21.454659,36.783748,26.664196,38.066278,85514,True,,F6,E2,S3,D2,GMV levels,Seller FE only,Early adopters,Cohort trends
+120.689109,65.352237,23.119350,63.702353,423706,True,,F6,E3,S1,D1,GMV levels,Week FE only,Full sample,No controls
+-55.919572,37.007289,34.151851,26.179318,423706,True,,F6,E3,S1,D2,GMV levels,Week FE only,Full sample,Cohort trends
+143.597000,89.454046,31.669378,87.011576,319925,True,,F6,E3,S2,D1,GMV levels,Week FE only,Positive-sales,No controls
+-65.286248,47.826614,45.646990,29.890689,319925,True,,F6,E3,S2,D2,GMV levels,Week FE only,Positive-sales,Cohort trends
+288.497433,216.731186,71.246493,210.968106,85514,True,,F6,E3,S3,D1,GMV levels,Week FE only,Early adopters,No controls
+-10.783522,157.299703,126.092668,105.999662,85514,True,,F6,E3,S3,D2,GMV levels,Week FE only,Early adopters,Cohort trends
+-8.253047,36.630129,14.958413,38.097785,423706,True,,F6,E4,S1,D1,GMV levels,No FE,Full sample,No controls
+-124.179228,37.251020,21.770598,42.036021,423706,True,,F6,E4,S1,D2,GMV levels,No FE,Full sample,Cohort trends
+43.875557,49.489229,20.118123,49.152997,319925,True,,F6,E4,S2,D1,GMV levels,No FE,Positive-sales,No controls
+-102.096211,49.106918,28.762989,48.937212,319925,True,,F6,E4,S2,D2,GMV levels,No FE,Positive-sales,Cohort trends
+43.165906,115.253862,47.093642,110.595570,85514,True,,F6,E4,S3,D1,GMV levels,No FE,Early adopters,No controls
+-122.676925,110.873665,63.689095,100.018212,85514,True,,F6,E4,S3,D2,GMV levels,No FE,Early adopters,Cohort trends
+-0.002977,0.024299,0.024299,0.024299,407284,True,,F7,E1,S1,D1,Poisson PPML,Seller+Week FE,Full sample,No controls
+0.006022,0.023715,0.023715,0.023715,407284,True,,F7,E1,S1,D2,Poisson PPML,Seller+Week FE,Full sample,Cohort trends
+-0.004433,0.023460,0.023460,0.023460,319464,True,,F7,E1,S2,D1,Poisson PPML,Seller+Week FE,Positive-sales,No controls
+0.011070,0.023401,0.023401,0.023401,319464,True,,F7,E1,S2,D2,Poisson PPML,Seller+Week FE,Positive-sales,Cohort trends
+0.018966,0.053271,0.053271,0.053271,84295,True,,F7,E1,S3,D1,Poisson PPML,Seller+Week FE,Early adopters,No controls
+0.038722,0.066993,0.066993,0.066993,84295,True,,F7,E1,S3,D2,Poisson PPML,Seller+Week FE,Early adopters,Cohort trends
+-0.096318,0.013761,0.013761,0.013761,407284,True,,F7,E2,S1,D1,Poisson PPML,Seller FE only,Full sample,No controls
+-0.009908,0.014416,0.014416,0.014416,407284,True,,F7,E2,S1,D2,Poisson PPML,Seller FE only,Full sample,Cohort trends
+-0.065252,0.013169,0.013169,0.013169,319464,True,,F7,E2,S2,D1,Poisson PPML,Seller FE only,Positive-sales,No controls
+0.000238,0.013779,0.013779,0.013779,319464,True,,F7,E2,S2,D2,Poisson PPML,Seller FE only,Positive-sales,Cohort trends
+-0.059437,0.027418,0.027418,0.027418,84295,True,,F7,E2,S3,D1,Poisson PPML,Seller FE only,Early adopters,No controls
+-0.017186,0.027583,0.027583,0.027583,84295,True,,F7,E2,S3,D2,Poisson PPML,Seller FE only,Early adopters,Cohort trends
+0.137879,0.075327,0.075327,0.075327,423706,True,,F7,E3,S1,D1,Poisson PPML,Week FE only,Full sample,No controls
+-0.053437,0.036153,0.036153,0.036153,423706,True,,F7,E3,S1,D2,Poisson PPML,Week FE only,Full sample,Cohort trends
+0.119252,0.074893,0.074893,0.074893,319925,True,,F7,E3,S2,D1,Poisson PPML,Week FE only,Positive-sales,No controls
+-0.047802,0.036078,0.036078,0.036078,319925,True,,F7,E3,S2,D2,Poisson PPML,Week FE only,Positive-sales,Cohort trends
+0.225608,0.166134,0.166134,0.166134,85514,True,,F7,E3,S3,D1,Poisson PPML,Week FE only,Early adopters,No controls
+0.004137,0.103729,0.103729,0.103729,85514,True,,F7,E3,S3,D2,Poisson PPML,Week FE only,Early adopters,Cohort trends
+-0.008889,0.039562,0.039562,0.039562,423706,True,,F7,E4,S1,D1,Poisson PPML,No FE,Full sample,No controls
+-0.133437,0.038882,0.038882,0.038882,423706,True,,F7,E4,S1,D2,Poisson PPML,No FE,Full sample,Cohort trends
+0.035254,0.039310,0.039310,0.039310,319925,True,,F7,E4,S2,D1,Poisson PPML,No FE,Positive-sales,No controls
+-0.082250,0.039315,0.039315,0.039315,319925,True,,F7,E4,S2,D2,Poisson PPML,No FE,Positive-sales,Cohort trends
+0.031742,0.083536,0.083536,0.083536,85514,True,,F7,E4,S3,D1,Poisson PPML,No FE,Early adopters,No controls
+-0.091305,0.081303,0.081303,0.081303,85514,True,,F7,E4,S3,D2,Poisson PPML,No FE,Early adopters,Cohort trends
