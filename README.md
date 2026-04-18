@@ -93,15 +93,6 @@ jupyter notebook extension/extension.ipynb
 Use **Kernel → Restart & Run All**. Fits all 160 specifications, writes figures
 and CSVs to `extension/output/`.
 
-### 4. Rebuild the term paper (LaTeX)
-
-```bash
-cd extension/paper
-pdflatex main.tex && pdflatex main.tex   # two passes for cross-references
-```
-
-Requires a TeX Live distribution (tested with 2025).
-
 ---
 
 ## Data
